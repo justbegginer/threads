@@ -1,0 +1,11 @@
+C:\Users\unium\source\repos\ConsoleApp53\ConsoleApp53\bin\Debug\netcoreapp2.1\ConsoleApp53.deps.json
+C:\Users\unium\source\repos\ConsoleApp53\ConsoleApp53\bin\Debug\netcoreapp2.1\ConsoleApp53.runtimeconfig.json
+C:\Users\unium\source\repos\ConsoleApp53\ConsoleApp53\bin\Debug\netcoreapp2.1\ConsoleApp53.runtimeconfig.dev.json
+C:\Users\unium\source\repos\ConsoleApp53\ConsoleApp53\bin\Debug\netcoreapp2.1\ConsoleApp53.dll
+C:\Users\unium\source\repos\ConsoleApp53\ConsoleApp53\bin\Debug\netcoreapp2.1\ConsoleApp53.pdb
+C:\Users\unium\source\repos\ConsoleApp53\ConsoleApp53\obj\Debug\netcoreapp2.1\ConsoleApp53.csprojAssemblyReference.cache
+C:\Users\unium\source\repos\ConsoleApp53\ConsoleApp53\obj\Debug\netcoreapp2.1\ConsoleApp53.csproj.CoreCompileInputs.cache
+C:\Users\unium\source\repos\ConsoleApp53\ConsoleApp53\obj\Debug\netcoreapp2.1\ConsoleApp53.AssemblyInfoInputs.cache
+C:\Users\unium\source\repos\ConsoleApp53\ConsoleApp53\obj\Debug\netcoreapp2.1\ConsoleApp53.AssemblyInfo.cs
+C:\Users\unium\source\repos\ConsoleApp53\ConsoleApp53\obj\Debug\netcoreapp2.1\ConsoleApp53.dll
+C:\Users\unium\source\repos\ConsoleApp53\ConsoleApp53\obj\Debug\netcoreapp2.1\ConsoleApp53.pdb
